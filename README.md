@@ -1,6 +1,15 @@
 ## Customer Segmentation and RFM Analysis Project
+Glimpse of the app:
 
-![Uploading image.png…]()
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1075699203046641687/1222955897605718016/image.png?ex=6618196f&is=6605a46f&hm=6332899843c7d52b89ef9f83e16433c7ef38c837008f271e81cf1273c3d5f5a7&=&format=webp&quality=lossless&width=1440&height=652", title="app home image">
+</p>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1075699203046641687/1222956302725287976/image.png?ex=661819cf&is=6605a4cf&hm=b1773e73c9db871649158111a2c24ac94fa1247933cb0825a841601bb53faa27&=&format=webp&quality=lossless&width=1440&height=653", title="app register image">
+</p>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1075699203046641687/1222956495789096970/image.png?ex=661819fe&is=6605a4fe&hm=e0231ea4a56ef022ed8fa2f426ae9373388c5ff1e085a3621a032e0cbca31a8b&=&format=webp&quality=lossless&width=1440&height=647", title="app insights image">
+</p>
 
 <hr>
 
