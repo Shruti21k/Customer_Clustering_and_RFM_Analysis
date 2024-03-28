@@ -1,5 +1,7 @@
 ## Customer Segmentation and RFM Analysis Project
 
+![Uploading image.png…]()
+
 <hr>
 
 ### Tools and Technologies Used 🛠️
